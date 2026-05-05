@@ -16,10 +16,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Harsh-23/Musify?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Harsh-23/Musify?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Harsh-23/Musify?style=for-the-badge" />
-  <img src="https://img.shields.io/github/v/release/Harsh-23/Musify?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/isairey/StreamingMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/isairey/StreamingMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/isairey/StreamingMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/isairey/StreamingMusic?style=for-the-badge" />
 </p>
 
 ---
