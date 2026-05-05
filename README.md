@@ -79,10 +79,13 @@ flutter run
 
 Las contribuciones son bienvenidas 🙌
 
-Reporta errores
-Sugiere mejoras
-Envía Pull Requests
-📄 Licencia
+- Reporta errores
+- Sugiere mejoras
+- Envía Pull Requests
+
+---
+
+## 📄 Licencia
 
 Este proyecto está bajo la licencia GPL-3.0.
 Consulta el archivo LICENSE.md para más detalles.
