@@ -72,7 +72,10 @@ git clone https://github.com/Harsh-23/Musify.git
 cd Musify
 flutter pub get
 flutter run
-🤝 Contribuciones
+```
+---
+
+## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas 🙌
 
