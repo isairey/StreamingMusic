@@ -51,7 +51,7 @@
 ## 📥 Descarga
 
 <p align="center">
-  <a href="https://github.com/Harsh-23/Musify/releases">
+  <a href="https://github.com/isairey/StreamingMusic/releases">
     <img width="120" src="https://telegra.ph/file/21bb2cc648561f192cea4.png" />
   </a>
 </p>
