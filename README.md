@@ -68,8 +68,8 @@
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/Harsh-23/Musify.git
-cd Musify
+git clone https://github.com/isairey/StreamingMusic.git
+cd StreamingMusic
 flutter pub get
 flutter run
 ```
